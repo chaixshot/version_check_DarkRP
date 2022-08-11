@@ -1,4 +1,4 @@
 {
     "version": "2.1",
-    "note": "All DLC need to be update too.",
+    "note": "All DLC need to be update too.\n* Support 8 split way\n* Fix deadloop",
 }
