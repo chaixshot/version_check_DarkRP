@@ -1,4 +1,4 @@
 {
-    "version": "2.1.1",
-    "note": "All DLC need to be update too.\n* Support 8 split way\n* Fix deadloop\n* Try improve spectator mode",
+    "version": "2.1.2",
+    "note": "All DLC need to be update too.\n* Support 8 split way\n* Fix deadloop\n* Fix spectator mode flashing screen\n* Wait map loaded before player Ready",
 }
