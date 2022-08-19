@@ -1,4 +1,4 @@
 {
-    "version": "2.2",
-    "note": "* Support 8 split way\n* Fix deadloop\n* Fix spectator mode flashing screen\n* Wait map loaded before player Ready\n* MapMarker tool",
+    "version": "2.3",
+    "note": "* Fix spectator mode\n* Wait map loaded before player Ready\n* PointMarker tool",
 }
