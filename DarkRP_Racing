@@ -1,4 +1,4 @@
 {
     "version": "2.3.2",
-    "note": "* Wait map loaded before player Ready\n* Improve PointMarker tool\n* Reduce file size",
+    "note": "* Wait map loaded before player Ready\n* Improve PointMarker tool\n* Reduce file size\n Better PointMarker ux",
 }
