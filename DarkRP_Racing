@@ -1,4 +1,4 @@
 {
-    "version": "2.3.1",
-    "note": "* Fix spectator mode\n* Wait map loaded before player Ready\n* Improve PointMarker tool\n* Reduce file size",
+    "version": "2.3.2",
+    "note": "* Wait map loaded before player Ready\n* Improve PointMarker tool\n* Reduce file size",
 }
