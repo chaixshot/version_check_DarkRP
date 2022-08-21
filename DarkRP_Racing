@@ -1,4 +1,4 @@
 {
-    "version": "2.3.2",
-    "note": "* Wait map loaded before player Ready\n* Improve PointMarker tool\n* Reduce file size\n* Better PointMarker ux",
+    "version": "2.3.3",
+    "note": "* Wait map loaded before player Ready\n* Reduce file size\n* Improve PointMarker UX\n* Remove PointMarker cache\n* Auto set vehicle to maximum customization",
 }
