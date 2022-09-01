@@ -1,4 +1,4 @@
 {
-    "version": "2.5.1",
-    "note": "* Wait map loaded before player Ready\n* Reduce file size\n* Improve PointMarker UX\n* Remove PointMarker cache\n* Auto set vehicle to maximum customization",
+    "version": "2.5.2",
+    "note": "* Auto update MySql table for more result, can use for web display race result\n* Fix visible spectator player\n* Rework spectator holo checkpont\n* Display more info on ready menu\n* Faster start race with camera and banner",
 }
