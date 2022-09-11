@@ -1,4 +1,4 @@
 {
-    "version": "2.6.1",
-    "note": "* Fix photo mode error.\n * Fix checkpoint override disable by Functionality.\n* Fix notifitation crash vehicle.",
+    "version": "2.6.2",
+    "note": "* Current version < 2.6.0 config files update\n* Current version >= 2.6.0 no config files update",
 }
