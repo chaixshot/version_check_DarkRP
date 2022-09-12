@@ -1,4 +1,4 @@
 {
-    "version": "2.6.2",
+    "version": "2.6.3",
     "note": "^1* Current version < 2.6.0 config files update.\n* Current version >= 2.6.0 no config files update.^0\n* Fix photo mode error.\n* Fix checkpoint override disable by Functionality.\n* Fix notifitation crash vehicle.\n* Fix upside down cam on rolling stunt ramp.\n* Fix plane crash when transform on ground.\n* Fix transforn veicle displayname\n* Fix warp when transfroming vehilce slowdown.\n Change plane roll degree check boost or slowdown.\n* Change some PointMarker manu display text.\n* Fix english grammar.",
 }
