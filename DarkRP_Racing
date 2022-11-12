@@ -1,4 +1,4 @@
 {
-    "version": "2.7.4",
-    "note": "* Prop Editor\n* Pickup Editor\n* Change race intro and end result background to native GTA:O scaleform\n* Change sound effect to native GTA:O\n* Add slipstream sound"
+    "version": "2.7.5",
+    "note": "* Config permission command darkrp_pointmarker.\n* Config permission command darkrp_endgame.\n* Config start race and randown lap with vehicle boot enable.\n* Create race traffic control.\n* Config DNF countdown timed.\n* Fix follow vehicle flip camera issue.\n* PointMarker > Race Details > Allow Get Out Vehicle."
 }
