@@ -1,4 +1,4 @@
 {
-    "version": "2.7.5",
+    "version": "2.7.6",
     "note": "* Config permission command darkrp_pointmarker.\n* Config permission command darkrp_endgame.\n* Config start race and randown lap with vehicle boot enable.\n* Create race traffic control.\n* Config DNF countdown timed.\n* Fix follow vehicle flip camera issue.\n* PointMarker > Race Details > Allow Get Out Vehicle."
 }
